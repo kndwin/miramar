@@ -1,5 +1,4 @@
 import Layout from 'components/Layout/Layout'
-import Image from 'next/image'
 import styles from 'styles/pages/index.module.scss'
 
 export default function IndexPage () { 
